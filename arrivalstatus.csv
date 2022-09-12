@@ -1,0 +1,11 @@
+﻿Airline,ArrivalCity,FlightsOnTime,FlightsDelayed
+Alaska,LosAngeles,497,62
+Alaska,Phoenix,221,12
+Alaska,SanDiego,212,20
+Alaska,SanFrancisco,503,102
+Alaska,Seattle,1841,305
+AM-West,LosAngeles,694,117
+AM-West,Phoenix,4840,415
+AM-West,SanDiego,383,65
+AM-West,SanFrancisco,320,129
+AM-West,Seattle,201,61
